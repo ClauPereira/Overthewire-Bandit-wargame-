@@ -5,14 +5,26 @@
 </p>
 
 ---
+<!-- Resumo -->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames/Summary.png"
+       width="70"
+       style="margin-right: 12px;">
+  Resumo do Desafio
+</h1>
 
-## 📝 Resumo do desafio  
 Neste nível, precisei aceder ao servidor remoto do **Bandit** via SSH utilizando as credenciais fornecidas.  
 Depois de estabelecer a ligação, o objetivo foi localizar um ficheiro chamado **`readme`** no diretório inicial e extrair a informação necessária para avançar para o próximo nível.
 
 ---
+<!-- Conceitos Aprendidos-->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames/concepts_learned.png"
+       width="70"
+       style="margin-right: 12px;">
+Conceitos Aprendidos
+</h1>
 
-## 🧠 Conceitos aprendidos  
 Durante este nível, consolidei fundamentos essenciais para qualquer profissional de cibersegurança:
 
 - 🔐 Funcionamento da autenticação SSH (utilizador + password)  
@@ -22,8 +34,14 @@ Durante este nível, consolidei fundamentos essenciais para qualquer profissiona
 - 🧍‍♂️ Importância de validar o utilizador ativo após a ligação  
 
 ---
+<!-- Comandos-->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames/commands.png"
+       width="70"
+       style="margin-right: 12px;">
+Comandos Relevantes
+</h1>
 
-## 🛠 Comandos relevantes  
 Utilizei comandos fundamentais do ambiente Linux, reforçando a base necessária para níveis mais avançados:
 
 - `ssh` → estabelecer ligação remota  
@@ -33,7 +51,14 @@ Utilizei comandos fundamentais do ambiente Linux, reforçando a base necessária
 
 ---
 
-## 🚫 Erros comuns evitados  
+<!-- Erros comuns evitados-->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames/ErrorX.png"
+       width="70"
+       style="margin-right: 12px;">
+Erros comuns evitados
+</h1>
+
 Mantive atenção a pontos que normalmente causam dificuldades a iniciantes:
 
 - ❌ Esquecer de colocar o utilizador correto antes do `@`  
@@ -41,8 +66,12 @@ Mantive atenção a pontos que normalmente causam dificuldades a iniciantes:
 - ❌ Procurar ficheiros sem verificar o diretório atual  
 
 ---
+<!-- Raciocínio aplicado -->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames/Thought_process.png"
+       width="70"
 
-## 🔎 Raciocínio aplicado  
+## Raciocínio aplicado  
 A minha abordagem foi objetiva e estruturada:
 
 1. Analisei as instruções para identificar o utilizador e a porta correta.  
