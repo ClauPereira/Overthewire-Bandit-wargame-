@@ -6,23 +6,60 @@
 
 ---
 
-## 📝 Resumo do desafio  
+<!-- Resumo -->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/Summary.png"
+       width="70"
+       style="margin-right: 12px;">
+  Resumo do Desafio
+</h1>
+
 Neste nível, precisei localizar um ficheiro específico dentro do diretório `inhere`.  
 O objetivo era encontrar um ficheiro **legível por humanos**, com **1033 bytes** e **não executável**, e depois ler o seu conteúdo para avançar para o próximo nível.
 
 ---
 
-## 🧠 Conceitos aprendidos  
+<!-- Conceitos Aprendidos-->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/concepts_learned.png"
+       width="70"
+       style="margin-right: 12px;">
+Conceitos Aprendidos
+</h1>
+
 Aprofundei competências importantes sobre pesquisa avançada de ficheiros:
 
-- 🔍 Como filtrar ficheiros com propriedades específicas usando `find`  
-- 📏 Como identificar ficheiros pelo tamanho exato em bytes  
-- 🧪 Diferença entre ficheiros legíveis e binários  
-- 🚫 Como excluir ficheiros executáveis durante a pesquisa  
+<p style="margin: 0; line-height: 1.2; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/search.png"
+       width="18"
+       style="margin-right: 8px;">
+Como filtrar ficheiros com propriedades específicas usando `find`  
+<p style="margin: 0; line-height: 1.2; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/size.png"
+       width="18"
+       style="margin-right: 8px;">
+Como identificar ficheiros pelo tamanho exato em bytes  
+<p style="margin: 0; line-height: 1.2; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/different.png"
+       width="18"
+       style="margin-right: 8px;">
+Diferença entre ficheiros legíveis e binários  
+<p style="margin: 0; line-height: 1.2; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/trash.png"
+       width="18"
+       style="margin-right: 8px;">
+Como excluir ficheiros executáveis durante a pesquisa  
 
 ---
 
-## 🛠 Comandos relevantes  
+<!-- Comandos-->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/commands.png"
+       width="70"
+       style="margin-right: 12px;">
+Comandos Relevantes
+</h1>
+
 Utilizei comandos essenciais para localizar o ficheiro correto:
 
 - `find -type f -readable ! -executable -size 1033c` → localizar ficheiro com todas as propriedades  
@@ -32,17 +69,50 @@ Utilizei comandos essenciais para localizar o ficheiro correto:
 
 ---
 
-## 🚫 Erros comuns evitados  
+<!-- Erros comuns evitados-->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/ErrorX.png"
+       width="70"
+       style="margin-right: 12px;">
+Erros comuns evitados
+</h1>
+ 
 Mantive atenção para não cometer erros típicos deste nível:
 
-- ❌ Esquecer de especificar unidades (`c` para bytes)  
-- ❌ Procurar apenas por nome e ignorar propriedades  
-- ❌ Tentar abrir ficheiros binários  
-- ❌ Não excluir ficheiros executáveis na pesquisa  
+<!-- erros-->
+<p style="margin: 0 0 14px 0; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/X.png"
+       width="18"
+       style="margin-right: 12px;">
+Esquecer de especificar unidades (`c` para bytes)  
+<!-- erros-->
+<p style="margin: 0 0 14px 0; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/X.png"
+       width="18"
+       style="margin-right: 12px;">
+Procurar apenas por nome e ignorar propriedades  
+<!-- erros-->
+<p style="margin: 0 0 14px 0; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/X.png"
+       width="18"
+       style="margin-right: 12px;">
+Tentar abrir ficheiros binários  
+<!-- erros-->
+<p style="margin: 0 0 14px 0; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/X.png"
+       width="18"
+       style="margin-right: 12px;">
+Não excluir ficheiros executáveis na pesquisa  
 
 ---
 
-## 🔎 Raciocínio aplicado  
+<!-- Raciocínio aplicado -->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/Thought_process.png"
+       width="70"
+
+## Raciocínio aplicado  
+
 A minha abordagem foi clara e eficiente:
 
 1. Acedi ao diretório `inhere`.  
