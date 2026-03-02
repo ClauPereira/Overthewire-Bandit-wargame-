@@ -5,24 +5,58 @@
 </p>
 
 ---
+<!-- Resumo -->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/Summary.png"
+       width="70"
+       style="margin-right: 12px;">
+  Resumo do Desafio
+</h1>
 
-## 📝 Resumo do desafio  
 Neste nível, precisei encontrar um ficheiro específico dentro do diretório `inhere`.  
 O objetivo era localizar o único ficheiro **legível por humanos**, com **1033 bytes** e **não executável**, e depois ler o seu conteúdo para avançar para o próximo nível.
 
 ---
 
-## 🧠 Conceitos aprendidos  
+<!-- Conceitos Aprendidos-->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/concepts_learned.png"
+       width="70"
+       style="margin-right: 12px;">
+Conceitos Aprendidos
+</h1>
+
 Aprofundei conhecimentos importantes sobre análise de ficheiros em Linux:
 
-- 🧪 Como identificar o tipo de um ficheiro com `file`  
-- 📏 Como verificar o tamanho exato de um ficheiro  
-- 🚫 Diferença entre ficheiros executáveis e não executáveis  
-- 🔍 Como filtrar ficheiros com propriedades específicas  
+<p style="margin: 0; line-height: 1.2; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/file.png"
+       width="18"
+       style="margin-right: 8px;">
+Como identificar o tipo de um ficheiro com `file`  
+<p style="margin: 0; line-height: 1.2; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/size.png"
+       width="18"
+       style="margin-right: 8px;">
+Como verificar o tamanho exato de um ficheiro  
+  <p style="margin: 0; line-height: 1.2; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/different.png"
+       width="18"
+       style="margin-right: 8px;">
+Diferença entre ficheiros executáveis e não executáveis  
+<p style="margin: 0; line-height: 1.2; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/search.png"
+       width="18"
+       style="margin-right: 8px;">
+Como filtrar ficheiros com propriedades específicas  
 
 ---
-
-## 🛠 Comandos relevantes  
+<!-- Comandos-->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/commands.png"
+       width="70"
+       style="margin-right: 12px;">
+Comandos Relevantes
+</h1>
 Usei comandos essenciais para localizar o ficheiro correto:
 
 - `ls` → listar ficheiros  
@@ -33,17 +67,49 @@ Usei comandos essenciais para localizar o ficheiro correto:
 
 ---
 
-## 🚫 Erros comuns evitados  
+<!-- Erros comuns evitados-->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/ErrorX.png"
+       width="70"
+       style="margin-right: 12px;">
+Erros comuns evitados
+</h1>
 Mantive atenção para não cometer erros típicos deste nível:
 
-- ❌ Assumir que todos os ficheiros são legíveis  
-- ❌ Ignorar o tamanho exato exigido (1033 bytes)  
-- ❌ Tentar abrir ficheiros binários  
-- ❌ Esquecer de usar `file` para confirmar o tipo de conteúdo  
+<!-- erros-->
+<p style="margin: 0 0 14px 0; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/X.png"
+       width="18"
+       style="margin-right: 12px;">
+Assumir que todos os ficheiros são legíveis  
+<!-- erros-->
+<p style="margin: 0 0 14px 0; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/X.png"
+       width="18"
+       style="margin-right: 12px;">
+Ignorar o tamanho exato exigido (1033 bytes)  
+<!-- erros-->
+<p style="margin: 0 0 14px 0; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/X.png"
+       width="18"
+       style="margin-right: 12px;">
+Tentar abrir ficheiros binários  
+<!-- erros-->
+<p style="margin: 0 0 14px 0; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/X.png"
+       width="18"
+       style="margin-right: 12px;">
+Esquecer de usar `file` para confirmar o tipo de conteúdo  
 
 ---
 
-## 🔎 Raciocínio aplicado  
+<!-- Raciocínio aplicado -->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/Thought_process.png"
+       width="70"
+
+## Raciocínio aplicado  
+
 A minha abordagem foi clara e direta:
 
 1. Acedi ao diretório `inhere`.  
