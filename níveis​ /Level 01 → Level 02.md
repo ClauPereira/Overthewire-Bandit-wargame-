@@ -27,10 +27,26 @@ Conceitos Aprendidos
 
 Neste exercício, reforcei competências importantes para manipulação de ficheiros em Linux:
 
-- 📄 Como lidar com ficheiros cujo nome começa com **caracteres especiais**  
-- 🧩 Diferença entre argumentos de comandos e nomes de ficheiros  
-- 🐚 Como indicar explicitamente um caminho para evitar interpretações erradas do terminal  
-- 🔍 Atenção ao contexto do diretório atual  
+<p style="margin: 0; line-height: 1.2; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/security.png"
+       width="18"
+       style="margin-right: 8px;">
+Como lidar com ficheiros cujo nome começa com **caracteres especiais**  
+ <p style="margin: 0; line-height: 1.2; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/structure.png"
+       width="18"
+       style="margin-right: 8px;">
+Diferença entre argumentos de comandos e nomes de ficheiros  
+<p style="margin: 0; line-height: 1.2; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/file.png"
+       width="18"
+       style="margin-right: 8px;">
+Como indicar explicitamente um caminho para evitar interpretações erradas do terminal  
+<p style="margin: 0; line-height: 1.2; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/search.png"
+       width="18"
+       style="margin-right: 8px;">  
+Atenção ao contexto do diretório atual  
 
 ---
 <!-- Comandos-->
