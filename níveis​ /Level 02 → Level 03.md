@@ -1,28 +1,65 @@
 # 🟨 Level 02 → Level 03
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nível-02%20%E2%86%92%2003-DAA520?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nível-00%20%E2%86%92%2001-1E90FF?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---
+<!-- Resumo -->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/Summary.png"
+       width="70"
+       style="margin-right: 12px;">
+  Resumo do Desafio
+</h1>
 
-## 📝 Resumo do desafio  
+ 
 Neste nível, precisei ler um ficheiro cujo nome contém **espaços**: `"spaces in this filename"`.  
 O objetivo foi extrair o conteúdo desse ficheiro para avançar para o próximo nível.
 
 ---
+<!-- Conceitos Aprendidos-->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/concepts_learned.png"
+       width="70"
+       style="margin-right: 12px;">
+Conceitos Aprendidos
+</h1>
 
-## 🧠 Conceitos aprendidos  
 Reforcei competências importantes para trabalhar com ficheiros em Linux:
 
-- 📄 Como manipular ficheiros com **espaços no nome**  
-- 🐚 Uso de **escape** (`\`) para interpretar nomes corretamente  
-- 🧩 Alternativa com **aspas** para evitar erros  
-- 📂 Importância de confirmar o diretório atual antes de executar comandos  
+<p style="margin: 0; line-height: 1.2; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/reading.png"
+       width="18"
+       style="margin-right: 8px;">
+Como manipular ficheiros com **espaços no nome**  
+  <p style="margin: 0; line-height: 1.2; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/slash.png"
+       width="18"
+       style="margin-right: 8px;">
+Uso de **escape** (`\`) para interpretar nomes corretamente  
+
+<p style="margin: 0; line-height: 1.2; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/structure.png"
+       width="18"
+       style="margin-right: 8px;">
+Alternativa com **aspas** para evitar erros  
+
+<p style="margin: 0; line-height: 1.2; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/file.png"
+       width="18"
+       style="margin-right: 8px;">
+Importância de confirmar o diretório atual antes de executar comandos  
 
 ---
+<!-- Comandos-->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/commands.png"
+       width="70"
+       style="margin-right: 12px;">
+Comandos Relevantes
+</h1>
 
-## 🛠 Comandos relevantes  
 Utilizei comandos simples, mas aplicados com precisão:
 
 - `ls` → confirmar a existência do ficheiro  
@@ -31,18 +68,50 @@ Utilizei comandos simples, mas aplicados com precisão:
 - `cat spaces\ in\ this\ filename` → leitura usando escape  
 
 ---
-
-## 🚫 Erros comuns evitados  
+<!-- Erros comuns evitados-->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/ErrorX.png"
+       width="70"
+       style="margin-right: 12px;">
+Erros comuns evitados
+</h1>
+ 
 Mantive atenção para não cometer erros típicos deste nível:
 
-- ❌ Tentar ler o ficheiro sem escapar os espaços  
-- ❌ Esquecer de usar aspas quando necessário  
-- ❌ Confundir espaços com múltiplos argumentos  
-- ❌ Assumir que o terminal interpreta nomes automaticamente  
+<!-- erros-->
+<p style="margin: 0 0 14px 0; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/X.png"
+       width="18"
+       style="margin-right: 12px;">
+Tentar ler o ficheiro sem escapar os espaços  
+<!-- erros-->
+<p style="margin: 0 0 14px 0; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/X.png"
+       width="18"
+       style="margin-right: 12px;">
+Esquecer de usar aspas quando necessário  
+<!-- erros-->
+<p style="margin: 0 0 14px 0; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/X.png"
+       width="18"
+       style="margin-right: 12px;">
+Confundir espaços com múltiplos argumentos  
+<!-- erros-->
+<p style="margin: 0 0 14px 0; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/X.png"
+       width="18"
+       style="margin-right: 12px;">
+Assumir que o terminal interpreta nomes automaticamente  
 
 ---
 
-## 🔎 Raciocínio aplicado  
+<!-- Raciocínio aplicado -->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/Thought_process.png"
+       width="70"
+
+## Raciocínio aplicado  
+
 A minha abordagem foi direta:
 
 1. Listei os ficheiros do diretório inicial para confirmar o nome exato.  
