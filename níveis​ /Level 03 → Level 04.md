@@ -5,24 +5,60 @@
 </p>
 
 ---
+<!-- Resumo -->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/Summary.png"
+       width="70"
+       style="margin-right: 12px;">
+  Resumo do Desafio
+</h1>
 
-## 📝 Resumo do desafio  
 Neste nível, precisei encontrar um ficheiro **oculto** dentro do diretório `inhere`.  
 O objetivo foi localizar esse ficheiro escondido e ler o seu conteúdo para avançar para o próximo nível.
 
 ---
 
-## 🧠 Conceitos aprendidos  
+<!-- Conceitos Aprendidos-->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/concepts_learned.png"
+       width="70"
+       style="margin-right: 12px;">
+Conceitos Aprendidos
+</h1>
+
 Reforcei conhecimentos essenciais sobre ficheiros ocultos em Linux:
 
-- 👁️ Como visualizar ficheiros ocultos com `ls -a`  
-- 📂 Diferença entre ficheiros normais e ficheiros iniciados com `.`  
-- 🧭 Navegação consciente entre diretórios  
-- 📄 Leitura de ficheiros ocultos com comandos básicos  
+<p style="margin: 0; line-height: 1.2; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/search.png"
+       width="18"
+       style="margin-right: 8px;">
+Como visualizar ficheiros ocultos com `ls -a`  
+<p style="margin: 0; line-height: 1.2; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/file.png"
+       width="18"
+       style="margin-right: 8px;">
+Diferença entre ficheiros normais e ficheiros iniciados com `.`  
+<p style="margin: 0; line-height: 1.2; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/file.png"
+       width="18"
+       style="margin-right: 8px;">
+Navegação consciente entre diretórios  
+<p style="margin: 0; line-height: 1.2; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/reading.png"
+       width="18"
+       style="margin-right: 8px;">
+Leitura de ficheiros ocultos com comandos básicos  
 
 ---
 
-## 🛠 Comandos relevantes  
+<!-- Comandos-->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/commands.png"
+       width="70"
+       style="margin-right: 12px;">
+Comandos Relevantes
+</h1>
+
 Usei comandos simples, mas aplicados de forma precisa:
 
 - `ls -a` → listar ficheiros ocultos  
@@ -32,17 +68,49 @@ Usei comandos simples, mas aplicados de forma precisa:
 
 ---
 
-## 🚫 Erros comuns evitados  
+<!-- Erros comuns evitados-->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/ErrorX.png"
+       width="70"
+       style="margin-right: 12px;">
+Erros comuns evitados
+</h1>
+
 Mantive atenção para não cair em armadilhas típicas deste nível:
 
-- ❌ Usar apenas `ls` e não ver ficheiros ocultos  
-- ❌ Procurar no diretório errado  
-- ❌ Ignorar o ponto (`.`) no nome do ficheiro  
-- ❌ Assumir que ficheiros ocultos são especiais ou protegidos  
+<!-- erros-->
+<p style="margin: 0 0 14px 0; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/X.png"
+       width="18"
+       style="margin-right: 12px;">
+Usar apenas `ls` e não ver ficheiros ocultos  
+<!-- erros-->
+<p style="margin: 0 0 14px 0; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/X.png"
+       width="18"
+       style="margin-right: 12px;">
+Procurar no diretório errado  
+<!-- erros-->
+<p style="margin: 0 0 14px 0; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/X.png"
+       width="18"
+       style="margin-right: 12px;">
+Ignorar o ponto (`.`) no nome do ficheiro  
+<!-- erros-->
+<p style="margin: 0 0 14px 0; font-size: 12px; font-weight: normal; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/X.png"
+       width="18"
+       style="margin-right: 12px;">
+Assumir que ficheiros ocultos são especiais ou protegidos  
 
 ---
+<!-- Raciocínio aplicado -->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/Thought_process.png"
+       width="70"
 
-## 🔎 Raciocínio aplicado  
+## Raciocínio aplicado  
+
 A minha abordagem foi direta:
 
 1. Acedi ao diretório `inhere`.  
