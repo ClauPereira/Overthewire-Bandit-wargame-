@@ -124,3 +124,5 @@ A estratégia utilizada foi simples e direta:
 <p align="center">
   <img src="https://img.shields.io/badge/Aprendizagem%20Consolidada-Grep%20%7C%20Pesquisa%20de%20Texto-A0FF2E?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
+
+---
