@@ -1,10 +1,22 @@
-# 🟨 Level 02 → Level 03
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Nível-00%20%E2%86%92%2001-1E90FF?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
+  <!-- Linha separadora superior, centralizada -->
+  <hr style="border:1px solid #FF7A2E; width:40%; margin:auto 0 8px 0;">
 
----
+  <!-- Badge 1: Bandit OverTheWire, menor -->
+  <img src="https://img.shields.io/badge/Bandit-OverTheWire-FF7A2E?style=for-the-badge&logo=linux&logoColor=white" style="height:35px; display:block; margin:auto;" />
+
+  <!-- Pequena quebra -->
+  <br>
+
+  <!-- Badge 2: Level 02 → 03, mesma cor, menor -->
+  <img src="https://img.shields.io/badge/Nível-02%20%E2%86%92%2003-FF7A2E?style=for-the-badge&logo=linux&logoColor=white" style="height:30px; display:block; margin:auto; margin-top:8px;" />
+
+  <!-- Linha separadora inferior, centralizada -->
+  <hr style="border:1px solid #FF7A2E; width:40%; margin:auto 0 8px 0;">
+
+</div>
+
 <!-- Resumo -->
 <h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
   <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/Summary.png"
@@ -121,5 +133,5 @@ A minha abordagem foi direta:
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Aprendizagem%20Consolidada-Manipulação%20de%20Ficheiros%20com%20Espaços-DAA520?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aprendizagem%20Consolidada-Manipulação%20de%20Ficheiros%20com%20Espaços-FF7A2E?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
