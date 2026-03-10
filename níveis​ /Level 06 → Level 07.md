@@ -125,4 +125,9 @@ A estratégia utilizada foi a seguinte:
 1. Naveguei até ao **diretório raiz** do sistema.  
 2. Usei o comando `find` para pesquisar ficheiros que correspondam às **três propriedades exigidas**.  
 3. A pesquisa retornou vários resultados, mas a maioria apresentou **"Permission denied"**.  
-4. Apenas um ficheiro pôde ser acedido:  
+4. Apenas um ficheiro pôde ser acedido.<br><br>
+   
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Aprendizagem%20Consolidada-Find%20%7C%20User%20%7C%20Group%20%7C%20Size-C4FF2E?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
