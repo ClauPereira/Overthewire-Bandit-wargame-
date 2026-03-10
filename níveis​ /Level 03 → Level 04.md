@@ -1,10 +1,22 @@
-# 🟧 Level 03 → Level 04
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Nível-03%20%E2%86%92%2004-FF8C00?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
+  <!-- Linha separadora superior, centralizada -->
+  <hr style="border:1px solid #FF7A2E; width:40%; margin:auto 0 8px 0;">
 
----
+  <!-- Badge 1: Bandit OverTheWire, menor -->
+  <img src="https://img.shields.io/badge/Bandit-OverTheWire-FFA12E?style=for-the-badge&logo=linux&logoColor=white" style="height:35px; display:block; margin:auto;" />
+
+  <!-- Pequena quebra -->
+  <br>
+
+  <!-- Badge 3: Level 03 → 04, mesma cor, menor -->
+  <img src="https://img.shields.io/badge/Nível-03%20%E2%86%92%2004-FFA12E?style=for-the-badge&logo=linux&logoColor=white" style="height:30px; display:block; margin:auto; margin-top:8px;" />
+
+  <!-- Linha separadora inferior, centralizada -->
+  <hr style="border:1px solid #FFA12E; width:40%; margin:auto 0 8px 0;">
+
+</div>
+
 <!-- Resumo -->
 <h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
   <img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/Summary.png"
@@ -122,6 +134,6 @@ A minha abordagem foi direta:
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Aprendizagem%20Consolidada-Ficheiros%20Ocultos%20%7C%20ls%20--a-FF8C00?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aprendizagem%20Consolidada-Ficheiros%20Ocultos%20%7C%20ls%20--a-FFA12E?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
