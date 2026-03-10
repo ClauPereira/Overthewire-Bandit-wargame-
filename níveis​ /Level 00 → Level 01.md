@@ -141,7 +141,7 @@ A minha abordagem foi objetiva e estruturada:
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Aprendizagem%20Consolidada-Linux%20%7C%20SSH%20%7C%20Navegação%20Básica-1E90FF?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aprendizagem%20Consolidada-Linux%20%7C%20SSH%20%7C%20Navegação%20Básica-FF2E2E?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 
