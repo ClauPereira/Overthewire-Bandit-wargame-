@@ -1,10 +1,25 @@
-# 🟪 Level 05 → Level 06
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Nível-05%20%E2%86%92%2006-8A2BE2?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
+  <!-- Linha separadora superior, centralizada -->
+  <hr style="border:1px solid # E6FF2E; width:40%; margin:auto 0 8px 0;">
 
----
+  <!-- Badge 1: Bandit OverTheWire, menor -->
+  <img src="https://img.shields.io/badge/Bandit-OverTheWire-E6FF2E?style=for-the-badge&logo=linux&logoColor=white" style="height:35px; display:block; margin:auto;" />
+
+  <!-- Pequena quebra -->
+  <br>
+
+  <!-- Badge 5: Level 05 → 06, mesma cor, menor -->
+  <img src="https://img.shields.io/badge/Nível-05%20%E2%86%92%2006-E6FF2E?style=for-the-badge&logo=linux&logoColor=white" style="height:30px; display:block; margin:auto; margin-top:8px;" />
+
+  <!-- Linha separadora inferior, centralizada -->
+  <hr style="border:1px solid #E6FF2E; width:40%; margin:auto 0 8px 0;">
+
+</div>
+
+
+
+
 
 <!-- Resumo -->
 <h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
@@ -124,5 +139,5 @@ A minha abordagem foi clara e eficiente:
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Aprendizagem%20Consolidada-Find%20%7C%20Filtros%20Avançados-8A2BE2?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aprendizagem%20Consolidada-Find%20%7C%20Filtros%20Avançados-E6FF2E?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
