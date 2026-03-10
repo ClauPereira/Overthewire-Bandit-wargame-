@@ -40,12 +40,12 @@ Conceitos Aprendidos
 Durante este desafio, pratiquei conceitos de **comunicação entre hosts via rede**:
 
 <p style="margin:0; line-height:1.2; font-size:12px; display:flex; align-items:center;">
-<img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/ssh.png" width="18" style="margin-right:8px;">
+<img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/ssh.png" width="25" style="margin-right:8px;">
 Como enviar dados para outro host usando o comando `telnet`
 </p>
 
 <p style="margin:0; line-height:1.2; font-size:12px; display:flex; align-items:center;">
-<img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/test.png" width="18" style="margin-right:8px;">
+<img src="https://github.com/ClauPereira/Icons/raw/main/WarGames_Overthewire/test.png" width="25" style="margin-right:8px;">
 Uso do **localhost (127.0.0.1)** para testes de rede locais
 </p>
 
