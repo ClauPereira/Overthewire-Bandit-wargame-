@@ -122,8 +122,5 @@ A estratégia utilizada foi:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Aprendizagem%20Consolidada-Sort%20%7C%20Uniq%20%7C%20Pipelines-7AFF2E?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
-
----
 
 
