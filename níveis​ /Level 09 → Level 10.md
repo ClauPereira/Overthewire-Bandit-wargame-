@@ -124,6 +124,3 @@ A estratégia utilizada foi:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Aprendizagem%20Consolidada-Strings%20%7C%20Grep%20%7C%20Análise%20de%20Binários-55FF2E?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
-
----
